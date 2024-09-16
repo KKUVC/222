@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800947053916",
+    "project_id": "kkuvc-f1a59",
+    "storage_bucket": "kkuvc-f1a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800947053916:android:0f31a1a36a6c0abb844d99",
+        "android_client_info": {
+          "package_name": "com.example.kkuvc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCacL1VBaOtHvuNrgM-cqiNM-hweEJ8pOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
